@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
 <biblioteca>
     <libro id="bk-001" categoria="Clásico">
-        <titulo>El Guardian entre el Centeno</titulo>
+        <titulo>El Jefe entre el Centeno</titulo>
         <autor>J.D. Salinger</autor>
         <anio>1951</anio>
         <paginas>277</paginas>
